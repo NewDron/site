@@ -1,3 +1,3 @@
 My personal website:
 
-https://newdron.github.io/Webpage/
+https://newdron.github.io/site/
